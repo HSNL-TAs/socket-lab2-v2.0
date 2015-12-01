@@ -38,4 +38,4 @@ while True:
 # 7. Please write down the code,
 # Don't forget to close the socket
 #
-    s.close()
+s.close()
